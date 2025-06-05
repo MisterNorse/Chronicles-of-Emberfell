@@ -6,7 +6,7 @@ export const storyScenes: StoryScene[] = [
   {
     id: "prologue_1",
     background: "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZmFudGFzeSUyMHZpbGxhZ2V8ZW58MHx8MHx8fDA%3D",
-     text: "It has been twenty years since the fire—since the night the sky turned red and your childhood ended in smoke and screams. You were only a child when the shadows of death came, when your village burned, and everything you knew was consumed by ash.",Add commentMore actions
+    text: "It has been twenty years since the fire—since the night the sky turned red and your childhood ended in smoke and screams. You were only a child when the shadows of death came, when your village burned, and everything you knew was consumed by ash.",Add commentMore actions
     text: "After all these years you've never forgotten, the pain imbedded in your mind in which every night becomes restless as the images flood your dreams once again. The creatue of darkness and those who controlled it.",
     text: "Your Ma, Pa and even your sister vanished within the fire, friends whom you cherished charred into memory.",
     text: "All you remember after that is being enraged by the destruction and death only to be left in darkness.",
