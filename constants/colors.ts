@@ -1,0 +1,25 @@
+export default {
+  primary: "#4a2c82",
+  primaryLight: "#6a4ca2",
+  secondary: "#c9a66b",
+  secondaryLight: "#e9c68b",
+  background: "#1a1a24",
+  backgroundLight: "#2a2a34",
+  text: "#f0f0f0",
+  textDark: "#c0c0c0",
+  danger: "#b83232",
+  success: "#32b852",
+  gold: "#ffd700",
+  silver: "#c0c0c0",
+  copper: "#b87333",
+  
+  // Dragon theme colors
+  dragonRed: "#8B0000",
+  dragonGold: "#DAA520",
+  dragonFlame: "#FF4500",
+  dragonScale: "#2F4F4F",
+  dragonEye: "#FFD700",
+  dragonBlood: "#DC143C",
+  dragonShadow: "#191970",
+  dragonEmber: "#FF6347",
+};
