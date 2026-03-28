@@ -4,7 +4,7 @@ import { getCharacterPortrait } from "@/data/characterPortraits";
 export const availableCompanions: Companion[] = [
   {
     id: "companion_1",
-    name: "Lirael",
+    name: "Lyra Stormwind",
     role: "Mage",
     description: "A talented mage with a sharp wit and sharper tongue. She seeks ancient knowledge to restore her family's honor.",
     image: "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d29tYW58ZW58MHx8MHx8fDA%3D",
@@ -21,7 +21,7 @@ export const availableCompanions: Companion[] = [
   },
   {
     id: "companion_2",
-    name: "Damian",
+    name: "Thorne Ironheart",
     role: "Warrior",
     description: "A stoic dwarven warrior with an unbreakable sense of honor. He seeks redemption for a past failure.",
     image: "https://images.unsplash.com/photo-1566753323558-f4e0952af115?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHdhcmZ8ZW58MHx8MHx8fDA%3D",
@@ -37,7 +37,7 @@ export const availableCompanions: Companion[] = [
   },
   {
     id: "companion_3",
-    name: "Elara",
+    name: "Elara Nightshade",
     role: "Rogue",
     description: "An elven rogue with a mysterious past. She moves like a shadow and trusts very few.",
     image: "https://images.unsplash.com/photo-1557555187-23d685287bc3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZWxmfGVufDB8fDB8fHww",
@@ -54,7 +54,7 @@ export const availableCompanions: Companion[] = [
   },
   {
     id: "companion_4",
-    name: "Zeus",
+    name: "Gareth Lightbringer",
     role: "Cleric",
     description: "A devoted cleric who believes in the inherent goodness of all beings. His faith is his strength.",
     image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFufGVufDB8fDB8fHww",
